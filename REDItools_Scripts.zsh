@@ -1,0 +1,1 @@
+python -m reditools analyze /data/public/Project/Longclaw/BAM/AAV_CU5_1.splitncigarreads.bam -r data/public/Project/Longclaw/Mouse_Reference/GRCm39.hAPOE.genome.fa -o /data/yuge/Longclaw_25Summer/Result/AAV_CU5_1.reditools.txt -a --min-read-quality 25 --min-read-depth 10 --min-edit 10 -t 4 -V -N
